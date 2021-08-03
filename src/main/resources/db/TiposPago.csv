@@ -1,0 +1,29 @@
+idTipoPago;Nombre;Porcentaje;defecto
+1;Efectivo/Debito;0;1
+2;Tarjeta Visa/Master 6 pagos;30;0
+3;Tarjeta Visa/Master 12 pagos;0;0
+6;Tarjeta Naranja 6 Pagos;22;0
+7;Tarjeta Naranja 12 Pagos;42;0
+8;Tarjeta Cabal 6 Pagos;30;0
+9;Tarjeta Cabal 12 Pagos;60;0
+11;Tarjeta Naranja PLAN Z;20;0
+12;Tarjeta Visa/Master/Cabal 3 pagos;5;0
+13;Tarjeta Shopping 3 Pagos;5;0
+14;Tarjeta Shopping 6 Pagos;25;0
+15;Tarjeta Shopping 12 Pagos;40;0
+16;Tarjeta Tuya NBCH 12 pagos;10;0
+17;Tarjeta Tuya NBCH 6 pagos;0;0
+18;Tarjeta Nevada 3 Pagos;0;0
+19;Mercadopago 12;30;0
+20;Mercadopago Promos;0;0
+23;Tarjeta Tuya NBCH 3 PAGOS;0;0
+22;Todopago 12;60;0
+24;Ahora 12 ;0;0
+25;Ahora 18;20;0
+27;Tarjeta Tuya NBCH 18 Pagos;15;0
+28;Tarjeta Tuya NBCH 24 Pagos;30;0
+29;Tarjeta Tuya NBCH 10;0;0
+30;Mercadolibre Site;0;0
+31;Costo Financiacion a 30 Dias;7;0
+33;Tarjeta 1 pago (visa/master/cabal/amex);0;0
+10;Tarjeta AMEX 3 Pagos;5;0

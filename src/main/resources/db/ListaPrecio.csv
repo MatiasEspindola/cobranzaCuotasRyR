@@ -1,0 +1,4 @@
+IdLista;Nombre;FechaDesde;FechaHasta;Importe;Porcentaje;Descuento;Defecto
+1;Contado;2012-10-20;2035-12-31;0;60;0;0
+2;Mayorista;2012-10-20;2035-12-31;0;30;0;0
+4;Especial Mayorista;2012-11-27;2035-12-31;0;20;0;0

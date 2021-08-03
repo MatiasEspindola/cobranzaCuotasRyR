@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+	<table th:fragment="itemsFactura" class="d-none">
+		<tbody id="plantillaItemsFactura">
+			<tr id="row_{ID}" name="columns-items">
+				<td class="d-none">
+					<input type="hidden" value="{ID}" name="item_id[]"/>
+				</td>
+				<td>{DESCRIPCION}</td>
+				<td>{PRECIO}</td>
+				<td>
+					<input type="number" value="{UNIDAD}" step="{UNIDAD}" name="cantidad[]" 
+					id="cantidad_{ID}" class="form-control col-sm-4" 
+					onchange="itemsHelper.calcularImporte({ID}, {PRECIO}, this.value);" min="{UNIDAD}"/>
+				</td>
+				<td>
+					<span id="total_importe_{ID}">0</span>
+				</td>
+				<td>
+					<a href="#"
+					onclick="itemsHelper.eliminarLineaFactura({ID});"><i class="far fa-trash-alt text-danger text-center"></i></a>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	
+
+</body>
+
+</html>

@@ -1,0 +1,163 @@
+IDCategoria;Activo;Nombre;CategoriaPadre;Descripcion;MetaTitulo;MetaPalabrasClave;MetaDescripcion;URLAmigable;URLImagen;level_depth
+1;1;Pc Escritorio;0;Computadoras de escritorio con tecnologia INTEL y AMD;;;;pc-escritorio;;2
+2;1;Accesorios;0;;;;;accesorios;;2
+3;1;Hardware;0;Discos, Grabadoras, Placas madres, Video, Memorias, Gabinetes, fuentes y otros;;hw,hardware;;hardware;;2
+4;1;Portatiles y Moviles;0;Notebook, Netbook, Tablet PC, Celulares Smartfone y accesorios para notebooks;;;;portatiles-y-moviles;Portatiles2.jpg;2
+5;1;Insumos;0;Libreria, CD, DVD, Bolsitas, Sobres de papel, Resmas, Papel Foto y Otros;;Libreria, CD, DVD, Bolsitas, sobres, papel foto;;insumos;;2
+6;1;Cartuchos / Tintas / Cintas;0;;;;;cartuchos-tintas-cintas;;2
+7;1;Camaras Digitales;130;;;;;camaras-digitales;;3
+8;1;Parlantes;130;;;;;parlantes;;3
+9;1;Conectividad y Redes;0;;;;;conectividad-y-redes;;2
+10;1;Impresoras;140;;;;;impresoras;;3
+11;1;Seguridad;0;;;;;seguridad;;2
+12;1;Electronica;0;;;;;electronica;;2
+13;1;GPS;0;;;;;gps;;2
+14;1;Consolas de juegos;130;;;;;consolas-de-juegos;;3
+15;1;Limpieza;0;;;;;limpieza;;2
+16;1;Equipos Premium;1;;;;;equipos-premium;;3
+17;1;Equipos Home Office;1;;;;;equipos-home-office;;3
+18;1;Equipos Media Center;1;;;;;equipos-media-center;;3
+19;1;Cables;2;;;;;cables;;3
+20;1;Gabinetes;2;;;;;gabinetes;;3
+21;1;Camaras Web;2;;;;;camaras-web;;3
+22;1;Teclados;2;;;;;teclados;;3
+23;1;Mouse y Pads;2;;;;;mouse-y-pads;;3
+24;1;Auriculares;130;;;;;auriculares;;3
+25;1;Reproductores de Audio y Video;130;;;;;reproductores-de-audio-y-video;;3
+26;1;Pendrive / Memorias;2;;;;;pendrive-memorias;;3
+27;1;Ventiladores y Disipadores;2;;;;;ventiladores-y-disipadores;;3
+28;1;Cargadores / Pilas;2;;;;;cargadores-pilas;;3
+29;1;Microfonos;130;;;;;microfonos;;3
+30;1;Joystick;2;;;;;joystick;;3
+31;1;Paneles Frontales;2;;;;;paneles-frontales;;3
+32;1;Adaptadores;2;;;;;adaptadores;;3
+33;1;Memorias;3;Memorias ddr/ddr2/ddr3, Micro SD, SD, Pendrive y otras;;;;memorias;;3
+34;1;Tv y Monitores;130;;;;;tv-y-monitores;;3
+35;1;Motherboards;3;;;;;motherboards;;3
+36;1;Microprocesadores;3;;;;;microprocesadores;;3
+37;1;Discos Rigidos;3;;;;;discos-rigidos;;3
+38;1;Grabadora/Lectora CD/DVD;3;;;;;grabadora-lectora-cd-dvd;;3
+39;1;Fuentes;3;;;;;fuentes;;3
+40;1;Estabilizadores/UPS;3;;;;;estabilizadores-ups;;3
+41;1;Placas de Video;3;;;;;placas-de-video;;3
+42;1;Placas sintonizadoras y Capturadoras;130;;;;;placas-sintonizadoras-y-capturadoras;;3
+43;1;Capturadoras;3;;;;;capturadoras;;3
+44;1;Placas de sonido;130;;;;;placas-de-sonido;;3
+45;1;Lectores de tarjetas;2;;;;;lectores-de-tarjetas;;3
+46;1;Papeleria y Libreria;5;resmas, papel fotografico, laminados e insumos para libreria en general;;;;papeleria-y-libreria;;3
+47;1;Sobres;5;;;;;sobres;;3
+48;1;Cajas CD/DVD;5;;;;;cajas-cd-dvd;;3
+49;1;CD Virgen;5;;;;;cd-virgen;;3
+50;1;DVD Virgen;5;;;;;dvd-virgen;;3
+51;1;Muebles;0;;;;;muebles;;2
+52;0;Celulares;2;;;;;celulares;;3
+53;1;Bolsos y Fundas;2;;;;;;;
+<P>Notebook, Netbook, Tablets, GPS, Celulares, Discos Rigidos</P>;;;;bolsos-y-fundas;;3;;;;
+54;1;GAMERS;0;;;;;gamers;;2
+55;1;Soportes Multifuncionales;130;;;;Soporte para Monitores;soportes-multifuncionales;;3
+56;1;Rebajas y Descuentos;0;Productos reparados, RF, discontinuos y otros;OUTLET;productos descontinuos, recertificados;Productos discontinuos, Recertificados;rebajas-y-descuentos;;2
+57;1;Acc. P/ Notebook, Netbook y Tablets;0;Baterias, Cargadores, Mouse, Teclados, Pendrive, Lectores de Memoria, Fundas, Hub USB;;Acc. P/ Notebook, Netbook y Tablets;;acc-p-notebook-netbook-y-tablets;Acc.-P--Notebook,-Netbook-y-Tablets1.jpg;2
+58;1;ILUMINACION;0;;;;;iluminacion;;2
+59;1;Servicios;0;Servicio Reparacion de Pc, Improras, Notebook, Testeo de HW;;servicios;servicios;servicios;;2
+60;1;Notebook;4;;;;;notebook;;3
+61;0;Netbook;4;;;;;netbook;;3
+62;1;Tablet;4;;;;;tablet;;3
+63;1;Smartphones;4;Celulares de Gamma Media Alta;;;;smartphones;;3
+64;0;Ultrabook;4;;;;;ultrabook;;3
+65;1;RAM;33;ddr/ddr2/ddr3/ddr4;;;;ram;;4
+66;1;Pendrive;33;Pendrive usb 3.0/2.0;;;;pendrive;;4
+67;1;SD y Micro SD;33;Memorias Flash;;;;sd-y-micro-sd;;4
+68;1;Tabletas Graficadoras y Accesorios;140;Diseño de imagenes, Dibujo Profesional;;;tabletas graficas;tabletas-graficadoras-y-accesorios;;3
+69;1;2 en 1;4;tablet 2 en 1;;;;2-en-1;;3
+70;0;Flip Cover;52;cubre celulares, protectores y otros;Flip Cover;Flip Cover;Flip Cover;flip-cover;;4
+71;0;TPU;52;Son cubre celulares de plastico rigido. Vienen en diferentes colores y diferentes modelos de celular.;TPU;TPU;celulares TPU;tpu;;4
+72;0;Funda Silicona;52;Cubre celular de silicona flexible. Vienen en diferentes colores y modelos;Funda Silicona;Funda Silicona;Funda Silicona;funda-silicona;;4
+73;0;Film protector;52;FILM PROTECTOR PARA CELULARES, TABLET Y SMARTPHONE.;;;FILM PROTECTOR;film-protector;;4
+74;1;Lapiz Touch;2;LAPIZ TOUCH PARA SMARTPHONE Y TABLET, PANTALLAS CAPTIVAS, LED, IPS Y OTRAS;;LAPIZ TOUCH;LAPIZ TOUCH;lapiz-touch;;3
+75;0;Baterias;52;Baterias para Celulares Originales y Genericas;;;Baterias Celulares;baterias;;4
+76;1;HDMI;19;CABLES HDMI, MINI Y MICRO PARA PC DISPOSITIVOS MOVILES Y OTROS;;CABLES HDMI;CABLES HDMI;hdmi;;4
+77;1;USB (2.0 Y 3.0);19;CABLE USB PARA IMPRESORAS, CELULARES, DISPOSITIVOS MOVILES, DISCOS RIGIDOS Y OTROS;;CABLES USB;CABLES USB;usb-2-0-y-3-0;;4
+78;1;VGA;19;CABLES TIPO VGA, PARA MONITOR, EXTENSION MONITOR Y OTROS;;CABLES VGA PARA MONITORES;CABLES VGA PARA MONITORES;vga;;4
+79;1;Camaras GOPRO;130;Accesorios y repuestos para camaras filmadoras deportivas gopro;Accesorios para GOPRO;Accesorios para GOPRO;accesorios para gopro;camaras-gopro;;3
+80;1;Audio;19;RCA-Plug, Opticos, Hdmi, cable de audio Stereo y otros;;;cables de audio;audio;;4
+81;1;Power ;19;Cables de Energia, para PC, tablet, celulares. Tipo 8 y Trebol.variedad de adaptadores de energia para fuentes de poder comunes y modulares.;;;cables de energia;power;;4
+82;1;Red UTP;19;CABLE DE RED UTP, PATCHCORD, POR BOBINA. Consultar cantidad. Externo e Interno.;;;red utp;red-utp;;4
+83;1;Drone;0;Drone, Dispositivos de vuelo sin tripulacion, Accesorios para Drone;drone;drone;drone;drone;;2
+84;1;Productos Destacados;0;;;;;productos-destacados;;2
+85;1;Especial en Pc y Notebook;0;;;;;especial-en-pc-y-notebook;;2
+86;1;gammer;22;;;;;gammer;;4
+87;0;FATHER S DAY;0;;;;;father-s-day;;2
+88;0;Spinner ;0;;;;;spinner;;2
+89;1;Destacados;0;;;;;destacados;;2
+90;1;Auriculares;89;;;;;auriculares;;3
+91;0;Fundas y Vidrios para tu Celular;89;;;;;fundas-y-vidrios-para-tu-celular;;3
+92;0;Cables y Cargadores;89;;;;;cables-y-cargadores;;3
+93;0;Parlantes;89;;;;;parlantes;;3
+94;1;Tabletas y Celulares;89;;;;;tabletas-y-celulares;;3
+95;1;ACCESORIOS ;89;;;;;accesorios;;3
+96;1;Gamer;89;;;;;gamer;;3
+97;1;Para PC;39;;;;;para-pc;;4
+98;1;Para Notebook;39;;;;;para-notebook;;4
+99;1;Para Tablet y Celulares;39;;;;;para-tablet-y-celulares;;4
+100;1;Teclados;54;;;;;teclados;;3
+101;1;Mouse;54;;;;;mouse;;3
+102;1;Refrigeracion;54;;;;;refrigeracion;;3
+103;1;Pad Mouse;54;;;;;pad-mouse;;3
+104;1;Fuentes de Energia;54;;;;;fuentes-de-energia;;3
+105;1;Gabinetes;54;;;;;gabinetes;;3
+106;1;Auricular;54;;;;;auricular;;3
+107;1;Rebajas y Descuentos;120;;;;;rebajas-y-descuentos;;3
+108;1;Sillas;54;;;;;sillas;;3
+109;1;Cable UTP;9;;;;;cable-utp;;3
+110;1;Fichas RJ45;9;;;;;fichas-rj45;;3
+111;1;Placas de Red;9;;;;;placas-de-red;;3
+112;1;Router Cableado;9;;;;;router-cableado;;3
+113;1;Router WiFI;9;;;;;router-wifi;;3
+114;1;Modem Router WiFi;9;;;;;modem-router-wifi;;3
+115;1;Amplificadores de Señal;9;;;;;amplificadores-de-senal;;3
+116;1;Antenas;9;;;;;antenas;;3
+117;1;Acces Point;9;;;;;acces-point;;3
+118;1;Switch;9;;;;;switch;;3
+119;1;Hasta 50% ;120;;;;;hasta-50;;3
+120;1;Ofertas;0;;;;;ofertas;;2
+121;1;Hasta 30% ;120;;;;;hasta-30;;3
+122;1;Hasta 20% ;120;;;;;hasta-20;;3
+123;1;Parlantes y Auriculares;120;;;;;parlantes-y-auriculares;;3
+124;1;Herramientas;9;;;;;herramientas;;3
+125;1;Joystick y Accesorios;54;;;;;joystick-y-accesorios;;3
+126;1;Herramientas;0;;;;;herramientas;;2
+127;1;Monitores;54;;;;;monitores;;3
+128;1;Parlantes ;54;;;;;parlantes;;3
+129;0;Promo Notebooks;0;;;;;promo-notebooks;;2
+130;1;Tv, Audio y Video;0;;;;;tv-audio-y-video;;2
+131;1;Conversores de audio y video;130;;;;;conversores-de-audio-y-video;;3
+132;1;Switch HDMI, KVM Y Splitter ;130;;;;;switch-hdmi-kvm-y-splitter;;3
+133;1;Proyectores y Pantallas;130;;;;;proyectores-y-pantallas;;3
+134;1;MediaStreaming;130;;;;;mediastreaming;;3
+135;1;Cables para Audio y Video;130;;;;;cables-para-audio-y-video;;3
+136;1; Ofertas Únicas!!;0;;;;;ofertas-únicas;;2
+137;1;Lo Mejor de la Semana;0;;;;;lo-mejor-de-la-semana;;2
+138;1;Descuentos de la Semana;0;;;;;descuentos-de-la-semana;;2
+139;1;Imperdibles de este Mes;0;;;;;imperdibles-de-este-mes;;2
+140;1;Diseño Impresión e Insumos;0;;;;;diseño-impresión-e-insumos;;2
+141;1;Hub USB;2;;;;;hub-usb;;3
+142;1;Para Camaras e Iluminacion;39;;;;;para-camaras-e-iluminacion;;4
+143;1;Tv y Monitores;55;;;;;tv-y-monitores;;4
+144;1;Tablets y Celulares;55;;;;;tablets-y-celulares;;4
+145;1;Para PC;27;;;;;para-pc;;4
+146;1;Para Notebook;27;;;;;para-notebook;;4
+147;1;Tablets y Celulares;27;;;;;tablets-y-celulares;;4
+148;0;Relojes;4;;;;;relojes;;3
+149;1;Relojes Smartwatch;4;;;;;relojes-smartwatch;;3
+150;1;Samsung;0;;;;;samsung;;2
+151;1;Lista de Deseos Navidad 2019;0;;;;;lista-de-deseos-navidad-2019;;2
+152;1;Tintas para Impresoras;140;;;;;tintas-para-impresoras;;3
+153;1;Papel Fotografico;140;;;;;papel-fotografico;;3
+154;1;Resmas de Papel;140;;;;;resmas-de-papel;;3
+155;1;Cartuchos Ink-jet;140;;;;;cartuchos-ink-jet;;3
+156;1;Cartuchos e insumos de Toner;140;;;;;cartuchos-e-insumos-de-toner;;3
+157;1;HOT SALE;0;;;;;hot-sale;;2
+158;1;Escaners y Accesorios;140;;;;;escaners-y-accesorios;;3
+159;1;Punteros y presentadores;130;;;;;punteros-y-presentadores;;3
+160;1;Calculadoras;12;;;;;calculadoras;;3
+161;1;Adaptadores Bluetooth;9;;;;;adaptadores-bluetooth;;3
